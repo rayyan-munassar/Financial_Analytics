@@ -6,6 +6,9 @@ Understanding how discount bands influence profitability.
 Determining which product has the highest gross sales.
 Ranking the top countries by sales performance.
 Evaluating which segment generates the most profit.
+
+---
+
 في هذا المشروع، أعمل على تحليل البيانات للإجابة على الأسئلة الرئيسية التي يطرحها أصحاب المصلحة. تشمل المجالات الرئيسية:
 
 تحديد أكثر تركيبات المنتجات والقطاعات ربحية.
